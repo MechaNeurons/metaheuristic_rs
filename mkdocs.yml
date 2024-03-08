@@ -5,8 +5,8 @@ site_description: >-
   My personal website
 
 # Repository
-repo_name: MechaNeurons/MechaNeurons.github.io
-repo_url: https://github.com/MechaNeurons/MechaNeurons.github.io
+repo_name: MechaNeurons/metaheuristic_rs.git
+repo_url: https://github.com/MechaNeurons/metaheuristic_rs.git
 
 
 theme:
