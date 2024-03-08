@@ -12,6 +12,7 @@ repo_url: https://github.com/MechaNeurons/metaheuristic_rs.git
 theme:
   name: material
   custom_dir: docs/overrides
+  icon: material/robot
   language: en
   features:
     - content.code.annotate
@@ -31,7 +32,7 @@ theme:
 
   plugins:
     - typeset
-    # - search
+    - search
     - blog:
       blog_toc: true
 
@@ -80,3 +81,8 @@ extra:
       link: https://www.instagram.com/mechaneurons?igsh=YTQwZjQ0NmI0OA==
     - icon: fontawesome/brands/threads
       link: https://www.threads.net/@mechaneurons
+
+nav:
+  - Home: index.md
+  - algorithms:
+    - Simulated Annealing: algorithms/simulated_annealing.md

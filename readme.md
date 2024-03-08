@@ -2,7 +2,7 @@
 
 Algorithms done:
 
-* [X] simulated annealing
+* [X] [simulated annealing](algorithms/simulated_annealing.md)
 * [ ] generic algorithm
 * [ ] particle swarm optimization
 * [ ] ant colony

@@ -6,6 +6,7 @@ This is the documentation of these algorithms.
 
     src/
         lib.rs
+        simulated_annealing.rs
     Cargo.toml
     .gitignore
     readme.md
@@ -13,3 +14,6 @@ This is the documentation of these algorithms.
     docs/
         index.md  # The documentation homepage.
 
+## Algorithms
+
+[Simulated Annealing](algorithms/simulated_annealing.md)
